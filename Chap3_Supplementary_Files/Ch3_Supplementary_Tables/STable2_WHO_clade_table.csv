@@ -1,0 +1,76 @@
+Clade,Country,Circulation period
+0,"South Central China, Hong Kong, North East China, China 
+  North West China, East China, Vietnam, North China",1996-2007
+1,"Thailand, Vietnam, Cambodia, East China, Hong Kong 
+  South Central China, South West China, Laos, India, Belgium 
+  Malaysia",2002-2010
+1-8-9-like,"Vietnam, Hong Kong, South Central China, South West China",2002-2005
+1.1,"Vietnam, Cambodia",2005-2008
+1.1-like,Vietnam,2007-2009
+1.1.1,"Vietnam, Cambodia",2008-2012
+1.1.2,"Vietnam, Cambodia",2008-2013
+2-like,"East China, South Central China, North East China",2002-2005
+2.1.1,"Indonesia, South Central China, Hong Kong",2002-2007
+2.1.2,Indonesia,2004-2006
+2.1.3,Indonesia,2005-2007
+2.1.3.1,Indonesia,2005-2011
+2.1.3.2,Indonesia,2005-2012
+2.1.3.2a,Indonesia,2009-2014
+2.1.3.2b,Indonesia,2008-2014
+2.1.3.3,Indonesia,2005-2010
+2.2,"Germany, France, Russia, Czech Republic, Romania, Switzerland 
+  United Kingdom, Poland, Nigeria, Turkey, Ukraine, East China 
+  North West China, Kazakhstan, South West China, Croatia, Hungary 
+  Bosnia And Herzegovina, Denmark, Sweden, Niger, Saudi Arabia, Togo 
+  India, Iran, Italy, Azerbaijan, Afghanistan, Pakistan, Mongolia 
+  Korea, Japan, Kuwait, North East China, Iraq, Slovenia, Austria 
+  Burkina Faso, Ivory Coast, Ghana, Sudan, Benin",2005-2008
+2.2.1,"Egypt, Israel, Gaza, Djibouti, Austria, Slovenia, Turkey 
+  Romania, Saudi Arabia, France, Italy, Hungary, Sweden 
+  Czech Republic, Slovakia, Germany, Nigeria",2005-2013
+2.2.1.1,"Egypt, Israel",2007-2010
+2.2.1.1a,"Egypt, Israel",2009-2011
+2.2.1.2,"Egypt, Israel",2010-2014
+2.2.2,"Bangladesh, India, Nepal",2007-2010
+2.2.2.1,"Bangladesh, India, Bhutan",2008-2011
+2.3.1,"South Central China, East China",2003-2005
+2.3.2,"South Central China, Vietnam, South West China, Hong Kong, China 
+  East China",2003-2006
+2.3.2.1,"North West China, Hong Kong, Vietnam, South Central China, Laos 
+  North China, Korea, Russia, Japan, East China, Myanmar",2007-2011
+2.3.2.1a,"South Central China, Vietnam, East China, Myanmar, Bangladesh 
+  India, Nepal, Bhutan",2009-2014
+2.3.2.1b,"East China, Vietnam, South Central China, North East China 
+  Hong Kong",2009-2013
+2.3.2.1c,"East China, Mongolia, Russia, North West China, China, Nepal 
+  Bulgaria, Iran, Japan, Korea, South Central China 
+  North East China, Laos, Bangladesh, Hong Kong, Canada, Taiwan 
+  Indonesia, Austria, Vietnam",2009-2014
+2.3.3,"South West China, South Central China",2004-2006
+2.3.4,"East China, South West China, South Central China, Hong Kong 
+  Malaysia, China, North China, Laos, Vietnam, North East China 
+  Myanmar, Thailand, North West China",2005-2011
+2.3.4-like,Vietnam,2008-2009
+2.3.4.1,"South Central China, South West China, Vietnam, Laos",2009-2010
+2.3.4.2,"South Central China, South West China, Vietnam, Myanmar, Laos 
+  Bangladesh",2005-2013
+2.3.4.3,"Vietnam, Hong Kong, South Central China",2007-2009
+2.3.4.4,"East China, Korea, Vietnam, South Central China, Laos, Japan 
+  United States Of America, Russia, Netherlands, United Kingdom 
+  Italy, Germany, China, South West China, North West China",2008-2014
+2.4,"South Central China, South West China, China",2003-2005
+2.5,"South Central China, East China, Japan, Korea, North East China",2003-2006
+3,"Hong Kong, East China, South Central China, Vietnam, North China",2000-2003
+3-like,"East China, Hong Kong",2001-2001
+4,"East China, South Central China, Hong Kong, South West China",2002-2006
+5,"North East China, East China, China, Vietnam, South Central China",2000-2004
+5-6-like,"North East China, East China, Japan",2001-2004
+6,"South Central China, East China",2002-2004
+7,"East China, South Central China, North West China, North China 
+  North East China, South West China, Myanmar",1997-2008
+7.1,"Vietnam, North China",2006-2008
+7.2,"South Central China, East China, Vietnam, North China 
+  North West China",2007-2012
+8,  Hong Kong,2002-2002
+8-9-like,  East China,2002-2003
+9,"East China, Hong Kong, South Central China, North West China",2001-2009

@@ -1,0 +1,38 @@
+Source-level,Lineage,Nomenclature,Circulation period,Country,WHO/FAO/OIE clade
+1,,1,1997-2004,"China, East China, South Central China",0
+2,,2,1997-2005,"Hong Kong, Vietnam",0
+3,,3,1999-2001,Hong Kong,0
+4,,4,2000-2000,"Hong Kong, South Central China",0
+5,Source,5,2000-2001,"South Central China, East China",0
+,5.1,5.1,2001-2004,"South Central China, East China, Hong Kong, North East China, China, North China",0
+6,Source,5.2,2000-2001,"East China, Hong Kong",0
+,6.1,5.2.1,2001-2001,Hong Kong,3
+7,Source,5.2.2,2001-2001,"South Central China, Hong Kong, Vietnam, East China","3, outliers"
+,7,5.2.2(a),2000-2000,Hong Kong,outliers
+,7,5.2.2(b),2002-2002,East China,4
+,7,5.2.2(c),2002-2002,Hong Kong,4
+,7,5.2.2(d),2001-2001,"South Central China, North China, Hong Kong",3
+,7.1,5.2.2.1,2001-2001,"Hong Kong, South Central China, East China",3
+,7.2,5.2.2.2,2005-2006,South West China,4
+,7.3,5.2.2.3,2003-2003,East China,outliers
+,7.4,5.2.2.4,2005-2005,"South West China, South Central China",7
+,7.5,5.2.2.5,2002-2004,"North East China, East China",outliers
+,7.6,5.2.2.6,2001-2004,"East China, Japan, South Central China","outliers, 6"
+,7.7,5.2.2.7,2000-2004,"South Central China, East China, North East China, Vietnam",5
+,7.8,5.2.2.8,2002-2003,East China,outliers
+,7.9,5.2.2.9,2001-2005,"South Central China, East China, Hong Kong",9
+,7.9,5.2.2.9(a),2002-2002,Hong Kong,8
+,7.9,5.2.2.9(b),2003-2005,"South Central China, Vietnam, Hong Kong",outliers
+8,Source,5.2.2.9.1,2002-2003,"South Central China, South West China",outliers
+,8.1,5.2.2.9.1.1,2002-2008,"Vietnam, Thailand, South West China, East China, Hong Kong, Belgium, Malaysia, Cambodia, South Central China",1
+,8.2,5.2.2.9.1.2,2002-2008,"North West China, Egypt, Austria, Nigeria, Ukraine, Afghanistan, Russia, Switzerland, Germany, Niger, India, East China, Pakistan, Korea, Sweden, Israel, Japan, Czech Republic, Sudan, Italy, Ivory Coast, Denmark, Iraq, France, North East China, Romania, Saudi arabia, Kazakhstan, South Central China, Slovakia, Iran, Croatia, Mongolia, Hungary","2.2, outliers, 2.5"
+,8.3,5.2.2.9.1.3,2002-2005,"South West China, South Central China, China",2.4
+,8.4,5.2.2.9.1.4,2003-2006,Indonesia,2.1.1
+,8.4,5.2.2.9.1.4(a),2003-2004,Indonesia,2.1.1
+,8.4,5.2.2.9.1.4.1,2003-2005,Indonesia,2.1.1
+,8.4,5.2.2.9.1.4.1.1,2003-2005,Indonesia,2.1.1
+,8.4,5.2.2.9.1.4.1.1.1,2004-2005,Indonesia,2.1.1
+,8.4,5.2.2.9.1.4.1.1.2,2004-2007,Indonesia,"2.1.2, 2.1.3"
+,8.4,5.2.2.9.1.4.1.1.3,2004-2007,Indonesia,2.1.3
+,8.5,5.2.2.9.1.5,2003-2008,"South West China, East China, South Central China, Vietnam, Hong Kong, Russia, China","2.3.2, 2.3.1"
+,8.6,5.2.2.9.1.6,2004-2007,"East China, South West China, South Central China, Hong Kong, Vietnam, Laos, Thailand, China, Malaysia","2.3.4, 2.3.3"
